@@ -1,0 +1,15 @@
+.button{
+    -fx-bordercolor:green;
+    -fx-background-color: greenyellow;
+    -fx-font-size:40;
+   -fx-border-style:dotted;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+}
+.label{
+   
+    -fx-font-size: 16pt;
+    -fx-text-fill:red;
+    -fx-font-family: "Tahoma";
+}
+

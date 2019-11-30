@@ -1,0 +1,17 @@
+.button{
+    -fx-border-color:green;
+    -fx-border-style:segments;
+    -fx-border-width:10px;
+    -fx-background-color: blue;
+    -fx-font-size:20;
+    
+    -fx-border-radius: 20;
+    -fx-background-radius: 15;
+}
+.label{
+   
+    -fx-font-size: 16pt;
+    -fx-text-fill:black;
+    
+    -fx-font-family: "Ariel";
+}
